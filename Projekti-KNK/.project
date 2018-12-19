@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Projekti-KNK</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/foto/logo3.jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Projekti%20KNK/logo3.jpg</locationURI>
+		</link>
+		<link>
+			<name>src/foto/s-l300.jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-1-WORKSPACE_LOC/Desktop/Projekti%20KNK/s-l300.jpg</locationURI>
+		</link>
+		<link>
+			<name>src/foto/tiger-of-sweden-medium-3840313.jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Projekti%20KNK/tiger-of-sweden-medium-3840313.jpg</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
